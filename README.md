@@ -2,7 +2,7 @@
 🔭 I’m currently working on project involving Python Pandas and Tableau<br>👯 I’m looking to collaborate on a project involving Python Pandas and Tableau<br>🌱 I’m currently learning PySpark,AWS <br> 💬 Ask me about Tableau,PostgreSQL,Python Pandas<br> ⚡ Fun fact: I also speak Spanish and Russian<br>📫 How to reach me zatsofya@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-zats-70798a358/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-zats-70798a358/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau] ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
