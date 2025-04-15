@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project involving Python Pandas and Tableau<br>👯 I’m looking to collaborate on a project involving Python Pandas and Tableau<br>🌱 I’m currently learning PySpark,AWS <br> 💬 Ask me about Tableau,PostgreSQL,Python Pandas<br> ⚡ Fun fact: I also speak Spanish and Russian<br>📫 How to reach me zatsofya@gmail.com
+🌱 I’m currently learning PySpark,AWS <br> 💬 Ask me about Tableau,PostgreSQL,Python Pandas<br> ⚡ Fun fact: I also speak Spanish and Russian<br>📫 How to reach me zatsofya@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-zats-70798a358/)
