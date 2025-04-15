@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project involving Python Pandas and Tableau<br>👯 I’m looking to collaborate on a project involving Python Pandas and Tableau<br>🌱 I’m currently learning PySpark<br>
+🔭 I’m currently working on project involving Python Pandas and Tableau<br>👯 I’m looking to collaborate on a project involving Python Pandas and Tableau<br>🌱 I’m currently learning PySpark,AWS <br> 💬 Ask me about Tableau,PostgreSQL,Python Pandas
 
 
 ## 🌐 Socials:
