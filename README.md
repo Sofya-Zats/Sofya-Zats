@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning PySpark,AWS <br> 
-I speak English,Russian and Spanish<br>💬 Ask me about Tableau,PostgreSQL,Python Pandas<br> ⚡ Fun fact: 📫 How to reach me zatsofya@gmail.com
+   I speak English,Russian and Spanish<br>💬 Ask me about Tableau,PostgreSQL,Python Pandas<br> ⚡ Fun fact: 📫 How to reach me zatsofya@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-zats-70798a358/)
